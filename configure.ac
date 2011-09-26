@@ -1,4 +1,4 @@
-AC_INIT([sdl_tut], [0.1], [tensorpuddin@devio.us])
+AC_INIT([sdl_tutorial], [0.1], [tensorpuddin@devio.us])
 AM_INIT_AUTOMAKE([-Wall -Werror foreign])
 AC_PROG_CXX
 AC_CONFIG_HEADERS([config.h])
